@@ -2175,7 +2175,6 @@ position: relative;
 height: 100vh;
 background: url("../../images/banner1-012.png") center center;
 background-size: cover;
-background-attachment: fixed;
 padding: 0;
 }
 
