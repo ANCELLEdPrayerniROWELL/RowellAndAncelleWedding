@@ -230,7 +230,7 @@ input, select, textarea {
   max-width: 100%;
   height: auto;
   display: inline-block;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .images2-container img {
@@ -248,13 +248,13 @@ input, select, textarea {
 
 @media (min-width: 600px) {
   .image-container {
-    max-width: 300px;
+    max-width: 200px;
   }
   .images-container {
-    max-width: 25px;
+    max-width: 10px;
   }
   .images2-container {
-    max-width: 250px;
+    max-width: 150px;
   }
   .image2-container {
     max-width: 450px;
