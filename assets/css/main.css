@@ -205,7 +205,23 @@ input, select, textarea {
 
 .images2-container {
   width: 100%;
-  max-width: 40%;
+  max-width: 50%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.images2g-container {
+  width: 100%;
+  max-width: 30%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.images2s-container {
+  width: 100%;
+  max-width: 100%;
   height: auto;
   margin: 0 auto;
   text-align: center;
@@ -255,6 +271,18 @@ input, select, textarea {
   display: inline-block;
 }
 
+.images2g-container img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+.images2s-container img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
 .image2-container img {
   max-width: 100%;
   height: auto;
@@ -285,6 +313,12 @@ input, select, textarea {
     max-width: 100px;
   }
   .images2-container {
+    max-width: 100px;
+  }
+  .images2g-container {
+    max-width: 100px;
+  }
+  .images2s-container {
     max-width: 100px;
   }
   .image2-container {
