@@ -1673,6 +1673,15 @@ input, select, textarea {
 			line-height: 1.5em;
 		}
 
+		header.ancp p {
+			color: #c8af90;
+			display: block;
+			margin: 0em 0 0 0;
+			font-size: 1.3em;
+			letter-spacing: 0.075em;
+			line-height: 1.5em;
+		}
+
 /* Table */
 
 	table {
