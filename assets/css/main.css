@@ -227,6 +227,14 @@ input, select, textarea {
   text-align: center;
 }
 
+.image4-container {
+  width: 100%;
+  max-width: 50%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .image-container img {
   max-width: 100%;
   height: auto;
@@ -261,6 +269,13 @@ input, select, textarea {
   margin-top: 50px;
 }
 
+.image4-container img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  margin-top: 50px;
+}
+
 
 @media (min-width: 600px) {
   .image-container {
@@ -276,6 +291,9 @@ input, select, textarea {
     max-width: 450px;
   }
   .image3-container {
+    max-width: 200px;
+  }
+  .image4-container {
     max-width: 200px;
   }
 
