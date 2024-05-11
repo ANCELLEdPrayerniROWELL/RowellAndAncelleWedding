@@ -205,7 +205,7 @@ input, select, textarea {
 
 .images2-container {
   width: 100%;
-  max-width: 50%;
+  max-width: 60%;
   height: auto;
   margin: 0 auto;
   text-align: center;
@@ -213,7 +213,7 @@ input, select, textarea {
 
 .images2g-container {
   width: 100%;
-  max-width: 30%;
+  max-width: 70%;
   height: auto;
   margin: 0 auto;
   text-align: center;
