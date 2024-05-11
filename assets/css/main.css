@@ -205,7 +205,7 @@ input, select, textarea {
 
 .images2-container {
   width: 100%;
-  max-width: 60%;
+  max-width: 40%;
   height: auto;
   margin: 0 auto;
   text-align: center;
@@ -221,7 +221,7 @@ input, select, textarea {
 
 .image3-container {
   width: 100%;
-  max-width: 80%;
+  max-width: 70%;
   height: auto;
   margin: 0 auto;
   text-align: center;
