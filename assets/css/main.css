@@ -235,6 +235,14 @@ input, select, textarea {
   text-align: center;
 }
 
+.image2-container {
+  width: 100%;
+  max-width: 90%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .image3-container {
   width: 100%;
   max-width: 70%;
@@ -290,6 +298,13 @@ input, select, textarea {
   margin-top: 50px;
 }
 
+.image2-container img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  margin-top: 50px;
+}
+
 .image3-container img {
   max-width: 100%;
   height: auto;
@@ -320,6 +335,9 @@ input, select, textarea {
   }
   .images2s-container {
     max-width: 100px;
+  }
+  .image2-container {
+    max-width: 450px;
   }
   .image2-container {
     max-width: 450px;
