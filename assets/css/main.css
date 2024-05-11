@@ -235,7 +235,7 @@ input, select, textarea {
   text-align: center;
 }
 
-.image2-container {
+.image2l-container {
   width: 100%;
   max-width: 90%;
   height: auto;
@@ -298,7 +298,7 @@ input, select, textarea {
   margin-top: 50px;
 }
 
-.image2-container img {
+.image2l-container img {
   max-width: 100%;
   height: auto;
   display: inline-block;
@@ -339,7 +339,7 @@ input, select, textarea {
   .image2-container {
     max-width: 450px;
   }
-  .image2-container {
+  .image2l-container {
     max-width: 450px;
   }
   .image3-container {
